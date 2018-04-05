@@ -1,2 +1,5 @@
 // Hello World
-console.log('frrrt');
+console.log('drrrt');
+(() => {
+  console.log('frrrt');
+})()
