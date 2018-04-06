@@ -1,2 +1,3 @@
 // Hello World
-console.log('frrrt');
+const output = 'drrt';
+console.log(output);
